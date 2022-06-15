@@ -1,4 +1,4 @@
-### E aiii, tranquilo ? Seja bem vindo(a) ! Eu sou o Pedro Bueno, mas pode me chamar de Bueno e fica a vontade para conhecer meu trabalho... Qualquer coisa só chamar.
+### E ai, tranquilo ? Seja bem vindo(a) ! Eu sou o Pedro Bueno, pode me chamar de Bueno e fica a vontade para conhecer meu trabalho... Qualquer coisa só chamar.
 
 - 🌱 Estudando Front-end (HTML, CSS e JavaScript), Back-end(Node.js) e Banco de Dados (MySQL e MongoDB)
 - 📫 Pode entrar em contato comigo através do e-mail buedro7@gmail.com
@@ -20,6 +20,7 @@
   <a href = "mailto:buedro7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="adicionar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/senju3/senju3/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
+![Snake animation](https://github.com/senju3/senju3/blob/output/github-contribution-grid-snake.svg)
