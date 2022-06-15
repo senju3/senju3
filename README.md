@@ -1,4 +1,6 @@
-### E ai, tranquilo ? Seja bem vindo(a) ! Eu sou o Pedro Bueno, pode me chamar de Bueno e fica a vontade para conhecer meu trabalho... Qualquer coisa só chamar.
+### E ai, tranquilo ? Seja bem vindo(a) ! 
+### Eu sou o Pedro Bueno, pode me chamar de Bueno e fica a vontade para conhecer meu trabalho... 
+### Qualquer coisa só me chamar.
 
 - 🌱 Estudando Front-end (HTML, CSS e JavaScript), Back-end(Node.js) e Banco de Dados (MySQL e MongoDB)
 - 📫 Pode entrar em contato comigo através do e-mail buedro7@gmail.com
